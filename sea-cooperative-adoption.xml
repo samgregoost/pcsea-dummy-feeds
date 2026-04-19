@@ -1,129 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>SEA Cooperative &amp; Adoption Tracker</title>
-<link>https://example.com/sea-cooperative-adoption</link>
-<description>Ground-level cooperative activity and business practice change across Southeast Asian food systems — smallholder organising, sourcing commitments, and certification uptake.</description>
+<title>SEA Cooperative &amp; Adoption Signals</title>
+<link>https://example.com/sea-coop-adoption</link>
+<description>Ground-level cooperative and business adoption signals in Southeast Asian food systems</description>
 <language>en-gb</language>
 
 <item>
-<title>Aquaspark rebuilds Asia-Pacific aquaculture due-diligence framework around smallholder producer network depth</title>
-<link>https://example.com/aquaspark-dd-framework-rebuild</link>
-<description>Singapore-based impact investor Aquaspark has rebuilt its Asia-Pacific aquaculture due-diligence framework to centre smallholder producer network depth as a core investment criterion, effective Q3 2026. Eleven existing portfolio companies are undergoing re-assessment under the new framework, and three partner co-investors have indicated they will adopt the framework for parallel deal review. Aquaspark described the change as a structural shift in how the firm defines aquaculture investability, rather than an ESG overlay.</description>
-<pubDate>Mon, 20 Apr 2026 09:45:00 +0800</pubDate>
-<guid>https://example.com/aquaspark-dd-framework-rebuild</guid>
+<title>Vietnamese coffee cooperative lands five-year direct contract with European roaster covering 600 smallholder farmers</title>
+<link>https://example.com/vietnam-coffee-direct-contract</link>
+<description>A cooperative representing six hundred smallholder coffee farmers in Vietnam's Central Highlands has secured a five-year direct supply contract with a major European roaster, bypassing traditional export intermediaries entirely. The contract includes agroecological practice requirements and premium pricing tied to cooperative governance standards. The cooperative spent four years building the structural conditions for this type of direct engagement.</description>
+<pubDate>Fri, 18 Apr 2026 10:30:00 +0800</pubDate>
+<guid>https://example.com/vietnam-coffee-direct-contract</guid>
 </item>
 
 <item>
-<title>An Giang Rice Federation signs $18m direct-export contract bypassing traditional exporters</title>
-<link>https://example.com/an-giang-rice-direct-export</link>
-<description>The An Giang Rice Federation, representing 2,400 smallholder rice-growing households across three Mekong Delta districts, has signed a five-year direct-export contract worth $18 million with two European specialty distributors. The agreement bypasses Vietnam's traditional milling-exporter intermediaries entirely and is underpinned by cooperative-owned drying and storage infrastructure commissioned last year. Federation leaders described the contract as a proof point for smallholder-centred export architecture.</description>
-<pubDate>Sun, 19 Apr 2026 17:30:00 +0800</pubDate>
-<guid>https://example.com/an-giang-rice-direct-export</guid>
+<title>Olam commits to agroecological sourcing transition across Southeast Asian rice supply</title>
+<link>https://example.com/olam-sea-rice-agroecology</link>
+<description>Olam Group has committed to transitioning its Southeast Asian rice sourcing to agroecological systems by 2029, affecting supply relationships across Thailand, Vietnam, and the Philippines. The commitment includes a seventy-million-dollar smallholder support fund and is framed as a response to long-term climate resilience concerns in the regional rice supply chain.</description>
+<pubDate>Fri, 18 Apr 2026 08:45:00 +0800</pubDate>
+<guid>https://example.com/olam-sea-rice-agroecology</guid>
 </item>
 
 <item>
-<title>Nestle SEA lifts regenerative-agriculture sourcing target to 50 per cent of regional volume by 2030</title>
-<link>https://example.com/nestle-sea-regen-50-percent</link>
-<description>Nestle's Southeast Asia unit has revised its regenerative-agriculture sourcing target upward, committing to source 50 per cent of regional agricultural volume under regenerative terms by 2030. Dairy in Malaysia, coffee in Vietnam, and coconut in the Philippines are named as priority supply sheds, with third-party verification handled by Bureau Veritas and biennial public reporting.</description>
-<pubDate>Sun, 19 Apr 2026 13:00:00 +0800</pubDate>
-<guid>https://example.com/nestle-sea-regen-50-percent</guid>
+<title>Laotian cooperative secures land tenure rights for 4,000 smallholder families</title>
+<link>https://example.com/laos-cooperative-land-tenure</link>
+<description>A smallholder cooperative in northern Laos has completed a six-year process to secure legal land tenure rights for four thousand member families, enabling the cooperative to enter long-term supply agreements previously unavailable. The tenure recognition is the largest cooperative-led land rights achievement in the country in a decade.</description>
+<pubDate>Thu, 17 Apr 2026 13:15:00 +0800</pubDate>
+<guid>https://example.com/laos-cooperative-land-tenure</guid>
 </item>
 
 <item>
-<title>Wilmar publishes agroecological sourcing roadmap with 30 per cent share target by 2032</title>
-<link>https://example.com/wilmar-agroecology-roadmap-30pc</link>
-<description>Wilmar International has published a transition roadmap committing to a 30 per cent agroecological sourcing share across its Southeast Asian upstream supply by 2032. The document uses the term agroecology rather than the firm's prior sustainable-agriculture framing and sets explicit smallholder-equity targets alongside hectare-based metrics. Analysts note the roadmap goes meaningfully further than Wilmar's 2024 NDPE commitments.</description>
-<pubDate>Sun, 19 Apr 2026 08:45:00 +0800</pubDate>
-<guid>https://example.com/wilmar-agroecology-roadmap-30pc</guid>
+<title>Wilmar International updates palm oil sourcing policy to include smallholder equity standards</title>
+<link>https://example.com/wilmar-smallholder-equity-policy</link>
+<description>Wilmar International has updated its palm oil sourcing policy to include explicit smallholder equity standards, covering contract length, price predictability, and producer organisation representation. The update is being watched as a potential signal for broader corporate policy shifts in the region.</description>
+<pubDate>Thu, 17 Apr 2026 11:00:00 +0800</pubDate>
+<guid>https://example.com/wilmar-smallholder-equity-policy</guid>
 </item>
 
 <item>
-<title>Tonle Sap Fisheries Federation consolidates 23 community cooperatives and secures $6.5m cold-chain facility</title>
-<link>https://example.com/tonle-sap-federation-cold-chain</link>
-<description>Twenty-three community fisheries cooperatives around Cambodia's Tonle Sap have formed a national federation and simultaneously closed a $6.5 million blended-finance package to build shared cold-chain infrastructure. The federation structure is designed to give smallholder fishers real bargaining power against industrial trawling encroachment, and the financing is structured to keep ownership of the cold-chain assets inside the cooperative system.</description>
-<pubDate>Sat, 18 Apr 2026 15:15:00 +0800</pubDate>
-<guid>https://example.com/tonle-sap-federation-cold-chain</guid>
+<title>Malaysian cooperative federation in Sabah signs direct contracts with three food manufacturers</title>
+<link>https://example.com/sabah-cooperative-direct-contracts</link>
+<description>A federation of smallholder cooperatives in Sabah has secured direct-supply contracts with three mid-tier Malaysian food manufacturers, bypassing traditional aggregator networks. The contracts cover rice, palm, and vegetable supply and include agroecological practice incentives.</description>
+<pubDate>Wed, 16 Apr 2026 14:00:00 +0800</pubDate>
+<guid>https://example.com/sabah-cooperative-direct-contracts</guid>
 </item>
 
 <item>
-<title>Sumatra Arabica cooperative achieves bird-friendly certification across 2,600 hectares</title>
-<link>https://example.com/sumatra-arabica-birdfriendly</link>
-<description>A 700-member Arabica coffee cooperative in Aceh has completed bird-friendly certification covering 2,600 hectares of shade-grown plots. The cooperative describes the certification as a practical milestone rather than a goal in itself — part of a longer agroecological programme linking forest cover to member livelihoods.</description>
-<pubDate>Sat, 18 Apr 2026 11:00:00 +0800</pubDate>
-<guid>https://example.com/sumatra-arabica-birdfriendly</guid>
+<title>Indonesian palm oil smallholders unite under new national umbrella body</title>
+<link>https://example.com/indonesia-palm-umbrella-body</link>
+<description>Independent palm oil smallholders across six Indonesian provinces have formed a new national umbrella body to coordinate representation in certification schemes, trade negotiations, and domestic policy discussions. The body claims initial membership of twelve thousand farming families.</description>
+<pubDate>Wed, 16 Apr 2026 10:00:00 +0800</pubDate>
+<guid>https://example.com/indonesia-palm-umbrella-body</guid>
 </item>
 
 <item>
-<title>Thai organic rice farmer union secures direct-export licence after three-year campaign</title>
-<link>https://example.com/yasothon-direct-export-licence</link>
-<description>A coalition of organic rice smallholders in Thailand's Yasothon province has been granted a direct export licence following a three-year administrative campaign. Pre-contracted container shipments to specialty distributors in Germany and Singapore are scheduled from May, with proceeds distributed back to member households under a transparent formula.</description>
-<pubDate>Fri, 17 Apr 2026 17:00:00 +0800</pubDate>
-<guid>https://example.com/yasothon-direct-export-licence</guid>
+<title>Thai cooperative network expands agroecology extension services to 1,800 farmers</title>
+<link>https://example.com/thai-cooperative-agroecology-extension</link>
+<description>A Thai cooperative network has expanded its agroecology extension services to one thousand eight hundred additional smallholder farmers, with technical training and input subsidies provided through member-led delivery. The expansion is being funded through a combination of cooperative reserves and international development support.</description>
+<pubDate>Tue, 15 Apr 2026 12:30:00 +0800</pubDate>
+<guid>https://example.com/thai-cooperative-agroecology-extension</guid>
 </item>
 
 <item>
-<title>Olam signs five-year pricing-floor agreement with 2,300-member Sulawesi cacao cooperative</title>
-<link>https://example.com/olam-sulawesi-pricing-floor</link>
-<description>Olam Group has signed a five-year pricing-floor agreement with a 2,300-member cacao cooperative in South Sulawesi, guaranteeing a minimum price independent of commodity market movements. The contract commits the cooperative to agroforestry practices, an arrangement intermediate between conventional off-take and fully smallholder-centred direct trade.</description>
-<pubDate>Fri, 17 Apr 2026 10:15:00 +0800</pubDate>
-<guid>https://example.com/olam-sulawesi-pricing-floor</guid>
+<title>Philippine rice cooperative wins certification for regenerative cultivation practices</title>
+<link>https://example.com/philippine-rice-regenerative-cert</link>
+<description>A rice cooperative in the Philippines' Ilocos region has received third-party certification for regenerative cultivation practices across its member holdings. The certification is one of the first of its type in the country and is expected to unlock premium market access.</description>
+<pubDate>Tue, 15 Apr 2026 09:15:00 +0800</pubDate>
+<guid>https://example.com/philippine-rice-regenerative-cert</guid>
 </item>
 
 <item>
-<title>Mindanao banana cooperative publicly rejects plantation-expansion offer citing transition lock-in</title>
-<link>https://example.com/mindanao-banana-reject-plantation</link>
-<description>A 1,100-member banana-growing cooperative in Bukidnon has publicly rejected an offer from a multinational fruit exporter to convert 600 hectares of diversified smallholder land into a single-variety plantation. Cooperative leadership cited concerns about transition lock-in and long-term soil degradation, committing instead to continued mixed-crop management.</description>
-<pubDate>Thu, 16 Apr 2026 14:30:00 +0800</pubDate>
-<guid>https://example.com/mindanao-banana-reject-plantation</guid>
+<title>Regional food manufacturer launches smallholder sourcing transparency platform</title>
+<link>https://example.com/regional-manufacturer-transparency</link>
+<description>A Southeast Asian food manufacturer has launched a public transparency platform detailing smallholder sourcing relationships across its supply chain, including geographic distribution, contract terms, and practice standards. The platform is being positioned as a voluntary disclosure beyond regulatory requirements.</description>
+<pubDate>Mon, 14 Apr 2026 14:45:00 +0800</pubDate>
+<guid>https://example.com/regional-manufacturer-transparency</guid>
 </item>
 
 <item>
-<title>Myanmar mungbean cooperative in Sagaing achieves EU traceability compliance across 4,700 plots</title>
-<link>https://example.com/myanmar-mungbean-eu-compliance</link>
-<description>A mungbean cooperative in Myanmar's Sagaing region has completed EU deforestation-regulation traceability compliance covering 4,700 farmer plots, unlocking direct European buyer access. Cooperative leadership cautioned that compliance alone does not substitute for the deeper soil and water programme the cooperative has planned over the following three seasons.</description>
-<pubDate>Wed, 15 Apr 2026 09:20:00 +0800</pubDate>
-<guid>https://example.com/myanmar-mungbean-eu-compliance</guid>
+<title>Indonesian coffee cooperative enters supply agreement with regional roaster network</title>
+<link>https://example.com/indonesia-coffee-roaster-network</link>
+<description>An Indonesian coffee cooperative has entered a supply agreement with a network of regional roasters across four Southeast Asian countries. The agreement includes standardised quality requirements and practice-based premiums but terms were not disclosed.</description>
+<pubDate>Mon, 14 Apr 2026 11:00:00 +0800</pubDate>
+<guid>https://example.com/indonesia-coffee-roaster-network</guid>
 </item>
 
 <item>
-<title>East Java dairy cooperative overhauls governance to give member-producers board majority</title>
-<link>https://example.com/east-java-dairy-governance</link>
-<description>A 4,100-member dairy cooperative in East Java has completed a governance overhaul giving member-producers a majority on its board, with rotating representation from women dairy farmers. The restructuring is being watched by other regional cooperatives as a possible template for smallholder-equity reforms.</description>
-<pubDate>Mon, 13 Apr 2026 11:45:00 +0800</pubDate>
-<guid>https://example.com/east-java-dairy-governance</guid>
+<title>Cambodian farmer-producer organisation federation expands to fifteen new villages</title>
+<link>https://example.com/cambodia-fpo-expansion</link>
+<description>A Cambodian farmer-producer organisation federation has expanded to fifteen new villages across Kampot and Kep provinces, bringing total membership to approximately three thousand two hundred farming households. The expansion focuses on rice, pepper, and vegetable cultivation.</description>
+<pubDate>Sun, 13 Apr 2026 15:30:00 +0800</pubDate>
+<guid>https://example.com/cambodia-fpo-expansion</guid>
 </item>
 
 <item>
-<title>Battambang rice cooperative commissions solar-powered irrigation network across 480 hectares</title>
-<link>https://example.com/battambang-solar-irrigation</link>
-<description>A Cambodian rice cooperative in Battambang has commissioned a solar-powered irrigation network covering 480 hectares of member plots. The network was financed through a mix of member savings and a small concessional loan from a regional rural development fund, keeping ownership and maintenance inside the cooperative structure.</description>
-<pubDate>Sun, 12 Apr 2026 10:30:00 +0800</pubDate>
-<guid>https://example.com/battambang-solar-irrigation</guid>
+<title>Vietnamese pepper cooperative secures European market access through collective bargaining</title>
+<link>https://example.com/vietnam-pepper-european-access</link>
+<description>A Vietnamese pepper cooperative has secured European market access through collective bargaining with three import-export firms. The cooperative will supply under a new quality framework emphasising traceability and cultivation practice verification.</description>
+<pubDate>Sat, 12 Apr 2026 12:15:00 +0800</pubDate>
+<guid>https://example.com/vietnam-pepper-european-access</guid>
 </item>
 
 <item>
-<title>Southeast Asian cooperative development networks announce regional peer-learning partnership</title>
-<link>https://example.com/sea-coop-peer-learning</link>
-<description>Four country-level cooperative development networks across SEA have announced a joint peer-learning partnership, with a twice-yearly exchange programme covering governance reform, cold-chain infrastructure, and direct-export licensing. The partnership is starting modestly but is being read as a move toward regional cooperative-to-cooperative coordination independent of donor agendas.</description>
-<pubDate>Fri, 10 Apr 2026 14:00:00 +0800</pubDate>
-<guid>https://example.com/sea-coop-peer-learning</guid>
+<title>Asian beverage company launches plant-based milk line</title>
+<link>https://example.com/asian-beverage-plant-milk</link>
+<description>A major Asian beverage company has launched a plant-based milk product line targeting regional urban markets. The launch is supported by significant marketing investment and retail partnerships but does not include supply chain or agricultural sourcing disclosures.</description>
+<pubDate>Fri, 11 Apr 2026 13:30:00 +0800</pubDate>
+<guid>https://example.com/asian-beverage-plant-milk</guid>
 </item>
 
 <item>
-<title>Singapore grocery chain doubles plant-based shelf space across 74 stores</title>
-<link>https://example.com/singapore-grocery-plant-based-shelf</link>
-<description>A major Singapore grocery chain has doubled its plant-based protein shelf space across 74 stores, positioning the expansion as part of a climate-smart protein retail strategy. The move is supported by a marketing campaign emphasising taste and convenience, with no stated cooperative or smallholder sourcing component.</description>
-<pubDate>Wed, 8 Apr 2026 09:15:00 +0800</pubDate>
-<guid>https://example.com/singapore-grocery-plant-based-shelf</guid>
-</item>
-
-<item>
-<title>Global plant-based protein market projected to reach $78 billion by 2030</title>
-<link>https://example.com/global-plant-based-78b-2030</link>
-<description>A widely-circulated global market forecast projects the plant-based protein category will reach $78 billion in annual revenue by 2030, with North American and European markets carrying the majority of growth. The forecast is generic to the category and does not differentiate SEA-specific dynamics, smallholder sourcing, or farming-systems transition.</description>
-<pubDate>Mon, 6 Apr 2026 15:30:00 +0800</pubDate>
-<guid>https://example.com/global-plant-based-78b-2030</guid>
+<title>Indonesian data centre powered by solar project receives government approval</title>
+<link>https://example.com/indonesia-data-centre-solar</link>
+<description>A solar-powered data centre project in Indonesia has received final government approval, with construction expected to begin in Q3 2026. The project is framed as part of the country's digital infrastructure strategy.</description>
+<pubDate>Thu, 10 Apr 2026 10:00:00 +0800</pubDate>
+<guid>https://example.com/indonesia-data-centre-solar</guid>
 </item>
 
 </channel>

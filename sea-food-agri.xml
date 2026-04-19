@@ -1,153 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>SEA Food &amp; Agriculture Digest</title>
+<title>SEA Food &amp; Agriculture Dispatch</title>
 <link>https://example.com/sea-food-agri</link>
-<description>Food and agriculture news from across Southeast Asia — smallholders, cooperatives, corporates, and the regional protein debate.</description>
+<description>Food and agriculture news from Southeast Asia</description>
 <language>en-gb</language>
 
 <item>
-<title>ADB commits $200 million to Mekong Delta agroecology facility structured around farmer-led cooperatives</title>
-<link>https://example.com/adb-mekong-agroecology-facility</link>
-<description>The Asian Development Bank has announced a $200 million facility targeting agroecological transition across Vietnam, Cambodia, and Laos rice smallholder systems. All capital will be allocated through farmer-led cooperative structures over three years, with ADB's Manila office naming four anchor cooperative federations as initial disbursement partners. The facility is ADB's first dedicated agroecology vehicle in Asia and sits explicitly outside the bank's existing sustainable-agriculture portfolio.</description>
-<pubDate>Mon, 20 Apr 2026 09:15:00 +0800</pubDate>
-<guid>https://example.com/adb-mekong-agroecology-facility</guid>
+<title>ADB commits $200m to Mekong Delta agroecology facility with cooperative-led disbursement</title>
+<link>https://example.com/adb-mekong-agroecology-facility-april</link>
+<description>The Asian Development Bank has announced a $200 million facility targeting agroecological transition across Vietnam, Cambodia, and Laos, with capital to be disbursed through farmer-led cooperative structures over a three-year horizon. The facility is the bank's first dedicated agroecology vehicle in the region and explicitly prioritises smallholder equity and just and regenerative supply chain outcomes. Initial deployments will focus on rice and freshwater aquaculture systems.</description>
+<pubDate>Fri, 18 Apr 2026 09:00:00 +0800</pubDate>
+<guid>https://example.com/adb-mekong-agroecology-facility-april</guid>
 </item>
 
 <item>
-<title>Minh Phu becomes first Vietnamese seafood exporter to commit entire supply chain to regenerative aquaculture</title>
+<title>Aquaspark rebuilds Asia-Pacific due diligence framework around smallholder network depth</title>
+<link>https://example.com/aquaspark-dd-framework-q2</link>
+<description>Impact investor Aquaspark has updated its Asia-Pacific aquaculture due diligence framework, explicitly screening portfolio companies on the depth of their smallholder producer network relationships and adoption of agroecological sourcing commitments. The revised framework takes effect for all new investments from Q2 2026 and is being shared publicly for peer reference. Aquaspark cites a need to move beyond certification-based screening toward systems-level assessment.</description>
+<pubDate>Thu, 17 Apr 2026 14:30:00 +0800</pubDate>
+<guid>https://example.com/aquaspark-dd-framework-q2</guid>
+</item>
+
+<item>
+<title>Indonesian cooperative federation unites 2,400 smallholder rice farmers under single agroecology charter</title>
+<link>https://example.com/indonesia-rice-federation-agroecology</link>
+<description>A newly formed federation of cooperatives in Central Java has brought 2,400 smallholder rice farmers under a single agroecology charter, enabling direct-to-market contracts with three regional food processors. The federation took eighteen months to establish legal standing and is being watched as a model for adjacent provinces. Member farmers report eighteen percent price premiums over spot market rates on first contracts.</description>
+<pubDate>Thu, 17 Apr 2026 11:15:00 +0800</pubDate>
+<guid>https://example.com/indonesia-rice-federation-agroecology</guid>
+</item>
+
+<item>
+<title>Unilever commits to sourcing fifty percent of Southeast Asian agricultural inputs from agroecological systems by 2030</title>
+<link>https://example.com/unilever-sea-agroecology-commit</link>
+<description>Unilever has announced a commitment to source fifty percent of its Southeast Asian agricultural inputs from agroecological systems by 2030, with milestone targets and third-party verification to be detailed in Q3 2026. The commitment covers palm oil, tea, and soy supply chains across Indonesia, Malaysia, and Vietnam, and is framed explicitly as a shift beyond certification-based sustainability.</description>
+<pubDate>Wed, 16 Apr 2026 13:00:00 +0800</pubDate>
+<guid>https://example.com/unilever-sea-agroecology-commit</guid>
+</item>
+
+<item>
+<title>Thai Rice Department opens consultation on subsidy reform favouring regenerative cultivation</title>
+<link>https://example.com/thai-rice-subsidy-consultation</link>
+<description>Thailand's Rice Department has opened public consultation on proposed subsidy reforms that would redirect funding toward regenerative and low-input rice production. The consultation runs through 15 May 2026 and is the first formal policy signal from the department since the 2024 change in agricultural leadership. Consultation documents reference smallholder resilience as a primary design goal.</description>
+<pubDate>Wed, 16 Apr 2026 10:00:00 +0800</pubDate>
+<guid>https://example.com/thai-rice-subsidy-consultation</guid>
+</item>
+
+<item>
+<title>Philippines begins drafting national agroecology strategy with regional consultation workshops</title>
+<link>https://example.com/philippines-national-agroecology-strategy</link>
+<description>The Philippine Department of Agriculture has begun drafting a national agroecology strategy, with consultation workshops planned across all regions through July 2026. If adopted, the strategy would be the first national framework of its kind in ASEAN and is being developed in coordination with smallholder farmer associations.</description>
+<pubDate>Tue, 15 Apr 2026 15:30:00 +0800</pubDate>
+<guid>https://example.com/philippines-national-agroecology-strategy</guid>
+</item>
+
+<item>
+<title>Vietnamese shrimp exporter Minh Phu pivots supply chain to regenerative aquaculture</title>
 <link>https://example.com/minh-phu-regenerative-pivot</link>
-<description>Minh Phu has committed to converting its entire shrimp supply chain to regenerative aquaculture principles by 2027, backed by a $40 million transition investment and binding off-take terms with coastal smallholder cooperatives across five Mekong provinces. The commitment explicitly rejects high-density pond models in favour of mangrove-integrated systems. Minh Phu is the first major Asian seafood exporter to treat transition lock-in as a board-level risk and to put capital behind that framing.</description>
-<pubDate>Mon, 20 Apr 2026 07:30:00 +0800</pubDate>
+<description>Vietnamese shrimp exporter Minh Phu has announced a commitment to source one hundred percent of product from regenerative aquaculture operations by 2028, with interim milestones tied to smallholder partnership expansion in the Mekong Delta. The commitment is the largest of its kind in the region and has been positioned as a response to tightening European import standards.</description>
+<pubDate>Tue, 15 Apr 2026 09:45:00 +0800</pubDate>
 <guid>https://example.com/minh-phu-regenerative-pivot</guid>
 </item>
 
 <item>
-<title>Unilever commits to 50 per cent agroecological sourcing across Southeast Asian agricultural inputs by 2030</title>
-<link>https://example.com/unilever-sea-agroecological-2030</link>
-<description>Unilever's regional unit has committed to sourcing 50 per cent of its Southeast Asian agricultural inputs from agroecological systems by 2030, with third-party verification handled by Bureau Veritas. The commitment covers coconut, dairy, palm oil, and spice supply sheds across Indonesia, Malaysia, the Philippines, and Vietnam. Quarterly progress reporting will include cooperative-origin volume share alongside hectare-based metrics.</description>
-<pubDate>Sun, 19 Apr 2026 18:45:00 +0800</pubDate>
-<guid>https://example.com/unilever-sea-agroecological-2030</guid>
+<title>Cambodian federation of smallholder cooperatives wins regional sustainability award</title>
+<link>https://example.com/cambodia-federation-award</link>
+<description>A federation of eighteen smallholder cooperatives in northern Cambodia has won regional recognition for an integrated agroecology and market access model that has increased average member income by thirty-four percent over three years. The federation plans to expand its model to Ratanakiri and Mondulkiri provinces in the coming year.</description>
+<pubDate>Mon, 14 Apr 2026 12:00:00 +0800</pubDate>
+<guid>https://example.com/cambodia-federation-award</guid>
 </item>
 
 <item>
-<title>Olam expands Indonesian cacao cooperative sourcing to 40 per cent with Sulawesi agroforestry programme</title>
-<link>https://example.com/olam-indonesia-cacao-cooperative</link>
-<description>Olam Group has committed to sourcing 40 per cent of its Indonesian cacao volume from smallholder cooperatives by Q4 2026, up from 22 per cent today. The programme includes a 2,300-member agroforestry commitment in South Sulawesi, a 12 per cent farmgate premium tied to verified agroforestry practice, and joint investment in cooperative-owned cold-chain infrastructure. Olam has framed the shift as a deliberate move away from commodity-broker sourcing toward smallholder-centred direct trade.</description>
-<pubDate>Sun, 19 Apr 2026 14:00:00 +0800</pubDate>
-<guid>https://example.com/olam-indonesia-cacao-cooperative</guid>
+<title>GFI APAC publishes consumer research showing twelve percent decline in Southeast Asian alt-protein interest</title>
+<link>https://example.com/gfi-apac-consumer-research-2026</link>
+<description>The Good Food Institute APAC has published research suggesting Southeast Asian consumer interest in alternative proteins has declined twelve percent year-over-year, with price and taste cited as primary barriers. The findings are being read by some investors as a challenge to recent investment theses in the regional alternative protein sector.</description>
+<pubDate>Mon, 14 Apr 2026 10:30:00 +0800</pubDate>
+<guid>https://example.com/gfi-apac-consumer-research-2026</guid>
 </item>
 
 <item>
-<title>Charoen Pokphand publishes Thai poultry transition lock-in assessment and commits to 25 per cent industrial-density reduction</title>
-<link>https://example.com/cp-thailand-transition-lockin</link>
-<description>Charoen Pokphand's Thai poultry unit has published an internal transition lock-in self-assessment covering its domestic broiler supply chain, a first among major Asian integrators. CP has committed to reducing industrial-density stocking by 25 per cent over four years and to shifting a quarter of contract-grower volume toward lower-density cooperative-tier operations. The document uses the term transition lock-in directly, adopting vocabulary more commonly associated with investor critique than corporate reporting.</description>
-<pubDate>Sun, 19 Apr 2026 09:20:00 +0800</pubDate>
-<guid>https://example.com/cp-thailand-transition-lockin</guid>
-</item>
-
-<item>
-<title>GFI APAC consumer research finds 12 per cent annual decline in Southeast Asian alternative-protein interest</title>
-<link>https://example.com/gfi-apac-altprotein-decline</link>
-<description>GFI APAC's latest regional consumer-research report documents a 12 per cent year-on-year decline in Southeast Asian consumer interest in alternative-protein products, a result the institute itself describes as challenging to the sector's investment thesis. The report draws on 4,800 respondents across six countries and explicitly recommends investors recalibrate growth assumptions baked into current climate-smart protein fund models. It is a rare public concession from within the alt-protein ecosystem that demand trajectory has softened.</description>
-<pubDate>Sat, 18 Apr 2026 16:30:00 +0800</pubDate>
-<guid>https://example.com/gfi-apac-altprotein-decline</guid>
-</item>
-
-<item>
-<title>Philippines opens national agroecology strategy consultation with regional workshops</title>
-<link>https://example.com/philippines-agroecology-strategy</link>
-<description>The Philippine Department of Agriculture has opened a formal public consultation on a draft national agroecology strategy, with workshops scheduled across all 17 administrative regions through the next three months. The consultation draft uses the term agroecology throughout, rather than the country's prior climate-smart agriculture framing, and names smallholder equity as one of four strategic pillars. Cabinet sign-off is targeted for Q3.</description>
-<pubDate>Sat, 18 Apr 2026 11:15:00 +0800</pubDate>
-<guid>https://example.com/philippines-agroecology-strategy</guid>
-</item>
-
-<item>
-<title>Cambodian smallholder federation expands cooperative network to 18 villages in northern provinces</title>
-<link>https://example.com/cambodia-federation-18-villages</link>
-<description>A Cambodian smallholder federation based in Preah Vihear has completed the integration of six additional village cooperatives, bringing its active network to 18 villages across the northern provinces. Federation leadership says the expanded footprint will allow a bid for pooled storage infrastructure financing from a regional rural development fund later this year. The federation is one of a small handful of Cambodian cooperative bodies operating at multi-district scale.</description>
-<pubDate>Sat, 18 Apr 2026 08:45:00 +0800</pubDate>
-<guid>https://example.com/cambodia-federation-18-villages</guid>
-</item>
-
-<item>
-<title>Nestle Malaysia begins regenerative dairy pilot across 380 smallholder farms</title>
-<link>https://example.com/nestle-malaysia-dairy-pilot</link>
-<description>Nestle's Malaysian operation has begun a regenerative dairy sourcing pilot covering roughly 380 smallholder farms organised under two cooperative structures across Negeri Sembilan and Pahang. The pilot pays a premium tied to verified soil-health and pasture-rotation metrics, with third-party measurement running over 24 months before a full programme decision. It is positioned as a test-bed for cooperative-origin dairy at commercial scale in Malaysia.</description>
-<pubDate>Thu, 16 Apr 2026 14:00:00 +0800</pubDate>
-<guid>https://example.com/nestle-malaysia-dairy-pilot</guid>
-</item>
-
-<item>
-<title>Indonesia circulates draft palm oil policy including smallholder-equity provisions</title>
-<link>https://example.com/indonesia-palm-smallholder-equity</link>
-<description>Indonesia's Ministry of Agriculture has circulated a draft palm oil policy framework for stakeholder consultation, with explicit smallholder-equity provisions including co-investment thresholds and cooperative-tier procurement quotas. The draft sits within a broader review triggered by compliance demands from the EU deforestation regulation and by domestic concern over smallholder price exposure. It represents the first time smallholder-equity language has appeared in a Ministry-level palm oil draft.</description>
-<pubDate>Wed, 15 Apr 2026 11:00:00 +0800</pubDate>
-<guid>https://example.com/indonesia-palm-smallholder-equity</guid>
-</item>
-
-<item>
-<title>Lao coffee cooperative secures $14m ADB blended-finance facility for agroforestry transition</title>
-<link>https://example.com/lao-coffee-adb-agroforestry</link>
-<description>The Asian Development Bank has closed a $14 million blended-finance facility with a Bolaven Plateau coffee cooperative, financing a shade-tree and intercropping conversion across 3,100 hectares. The facility puts long-duration concessional capital at the cooperative level rather than at a corporate off-taker — an architecture ADB staff described as closer to system finance than conventional supply-chain lending. First disbursements cover nursery establishment and cooperative governance capacity.</description>
-<pubDate>Tue, 14 Apr 2026 13:45:00 +0800</pubDate>
-<guid>https://example.com/lao-coffee-adb-agroforestry</guid>
-</item>
-
-<item>
-<title>Hanoi-based regional outlet launches Southeast Asian sustainable agriculture reporting vertical</title>
-<link>https://example.com/hanoi-media-sea-vertical</link>
-<description>A Hanoi-based regional news outlet has launched a dedicated Southeast Asian sustainable agriculture reporting vertical, with initial coverage commissioned across rice, coffee, and aquaculture supply chains. The launch is being read by regional editors as a signal that sustainable-agriculture coverage has reached a sustained editorial audience rather than being treated as occasional feature material.</description>
-<pubDate>Mon, 13 Apr 2026 10:00:00 +0800</pubDate>
-<guid>https://example.com/hanoi-media-sea-vertical</guid>
-</item>
-
-<item>
-<title>Yangon University paper examines smallholder inclusion in Myanmar pulse export chains</title>
-<link>https://example.com/yangon-university-pulse-paper</link>
-<description>A working paper from Yangon University's agricultural economics department examines the structural barriers faced by Myanmar mungbean and chickpea smallholders in accessing direct export markets. The paper draws on field data from three regions and argues that cooperative legal-form reform, not technical training, is the binding constraint. It joins a small but growing body of Myanmar-focused academic work on cooperative structure.</description>
-<pubDate>Sat, 11 Apr 2026 15:20:00 +0800</pubDate>
-<guid>https://example.com/yangon-university-pulse-paper</guid>
-</item>
-
-<item>
-<title>Food security rises on upcoming ASEAN ministerial 2026 agenda</title>
-<link>https://example.com/asean-2026-food-security-agenda</link>
-<description>The upcoming ASEAN agriculture ministers' meeting has listed food security and systems resilience among its five priority agenda items, up from a secondary placement last year. Officials working on the preparatory drafts say the shift reflects member-state concern over compound climate and supply-chain shocks rather than a specific sector commitment. No binding ministerial text is expected before the mid-year summit.</description>
-<pubDate>Fri, 10 Apr 2026 09:30:00 +0800</pubDate>
-<guid>https://example.com/asean-2026-food-security-agenda</guid>
+<title>Nestle expands agroecology supplier programme in Thailand to 2,800 smallholders</title>
+<link>https://example.com/nestle-thailand-supplier-expansion</link>
+<description>Nestle has expanded its Thai agroecology supplier programme to include an additional 2,800 smallholder farmers across rice and vegetable supply, with technical training and premium pricing for certified output. The expansion brings programme coverage to over seven thousand farmers and is being framed as a response to climate volatility in the region.</description>
+<pubDate>Sun, 13 Apr 2026 14:00:00 +0800</pubDate>
+<guid>https://example.com/nestle-thailand-supplier-expansion</guid>
 </item>
 
 <item>
 <title>Southeast Asian ESG disclosure requirements tighten for listed agribusiness</title>
-<link>https://example.com/sea-esg-disclosure-agribusiness</link>
-<description>Revised ESG disclosure requirements affecting listed agribusinesses have taken effect across three SEA exchanges, mandating quantitative reporting on deforestation exposure and smallholder-sourcing share. The requirements do not prescribe target levels and are expected to produce the first wave of comparable baseline data by the end of 2026.</description>
-<pubDate>Thu, 9 Apr 2026 14:15:00 +0800</pubDate>
-<guid>https://example.com/sea-esg-disclosure-agribusiness</guid>
+<link>https://example.com/sea-esg-disclosure-update</link>
+<description>Several Southeast Asian financial regulators have moved toward tighter ESG disclosure requirements for publicly-listed agribusiness companies, with new reporting categories covering smallholder procurement and land use change. Implementation timelines vary by jurisdiction but most are targeted for the 2027 reporting cycle.</description>
+<pubDate>Sun, 13 Apr 2026 11:00:00 +0800</pubDate>
+<guid>https://example.com/sea-esg-disclosure-update</guid>
 </item>
 
 <item>
-<title>Singapore cultivated-meat startup closes $85 million Series C for lab-grown chicken</title>
-<link>https://example.com/singapore-cultivated-meat-series-c</link>
-<description>A Singapore-based cultivated-meat startup has closed an $85 million Series C round led by a consortium of climate-smart protein funds, with plans to expand into South Korean retail. Executives described the round as further proof that alternative proteins remain the central pathway for Asian protein transition, and pointed to Singapore's permissive regulator as the enabling backdrop.</description>
-<pubDate>Tue, 7 Apr 2026 11:45:00 +0800</pubDate>
-<guid>https://example.com/singapore-cultivated-meat-series-c</guid>
+<title>Regional research consortium examines smallholder inclusion in Asian food supply chains</title>
+<link>https://example.com/regional-research-smallholder</link>
+<description>A consortium of five Southeast Asian universities has launched a three-year research programme examining smallholder inclusion in regional food supply chains. Early output is expected to inform both corporate procurement policy and regional regulatory discussions through 2028.</description>
+<pubDate>Sat, 12 Apr 2026 10:15:00 +0800</pubDate>
+<guid>https://example.com/regional-research-smallholder</guid>
 </item>
 
 <item>
-<title>Asian beverage company launches plant-based milk line across Malaysian retail</title>
-<link>https://example.com/asian-beverage-plant-milk-malaysia</link>
-<description>A regional beverage company has launched a new plant-based milk line across 600 Malaysian retail outlets, with oat and almond SKUs led by a marketing campaign targeting urban consumers. The launch is framed purely around consumer category growth, with no smallholder-sourcing or farming-systems component disclosed.</description>
-<pubDate>Mon, 6 Apr 2026 16:00:00 +0800</pubDate>
-<guid>https://example.com/asian-beverage-plant-milk-malaysia</guid>
+<title>Singapore cultivated meat startup closes $85m Series C for lab-grown chicken</title>
+<link>https://example.com/sg-cultivated-meat-series-c</link>
+<description>A Singapore-based cultivated meat company has raised eighty-five million dollars in Series C funding, with Temasek and GIC participating. The company plans regional expansion and scale-up of production facilities. No supply chain or ingredient sourcing strategy has been disclosed alongside the announcement.</description>
+<pubDate>Fri, 11 Apr 2026 14:30:00 +0800</pubDate>
+<guid>https://example.com/sg-cultivated-meat-series-c</guid>
+</item>
+
+<item>
+<title>Global plant-based protein market projected to reach $78 billion by 2030</title>
+<link>https://example.com/global-plantbased-market-projection</link>
+<description>Market research published this week projects the global plant-based protein market will reach seventy-eight billion dollars by 2030, driven primarily by North American and European demand. Asia-Pacific growth is expected to trail other regions, with analysts citing consumer preference and price sensitivity as key constraints.</description>
+<pubDate>Fri, 11 Apr 2026 09:00:00 +0800</pubDate>
+<guid>https://example.com/global-plantbased-market-projection</guid>
 </item>
 
 <item>
 <title>Vertical farming startup opens pilot facility in Singapore industrial park</title>
-<link>https://example.com/vertical-farming-singapore-tuas</link>
-<description>A Singapore-based vertical farming startup has opened a 4,500 square-metre pilot facility in the Tuas industrial park, claiming yield parity with imported leafy greens. The operation is positioned as climate-smart precision agriculture and has no stated smallholder, cooperative, or regional supply-chain component.</description>
-<pubDate>Mon, 6 Apr 2026 10:00:00 +0800</pubDate>
-<guid>https://example.com/vertical-farming-singapore-tuas</guid>
+<link>https://example.com/sg-vertical-farming-pilot</link>
+<description>A vertical farming startup has opened a pilot facility in a Singapore industrial park, focusing on leafy greens for domestic restaurant supply. The pilot uses precision agriculture techniques and is supported by a government innovation grant.</description>
+<pubDate>Thu, 10 Apr 2026 13:45:00 +0800</pubDate>
+<guid>https://example.com/sg-vertical-farming-pilot</guid>
 </item>
 
 </channel>

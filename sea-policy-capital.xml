@@ -1,129 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>SEA Policy &amp; Capital Watch</title>
+<title>SEA Policy &amp; Capital Signals</title>
 <link>https://example.com/sea-policy-capital</link>
-<description>Policy developments and capital flows shaping Southeast Asian food systems — regulators, development banks, investors, and the architecture around them.</description>
+<description>Policy and capital movement signals in Southeast Asian food systems</description>
 <language>en-gb</language>
 
 <item>
-<title>Bangko Sentral ng Pilipinas issues first Asian central-bank guideline treating agroecological practice adoption as a distinct credit risk category</title>
-<link>https://example.com/bsp-agroecology-credit-risk</link>
-<description>The Philippine central bank has published the first guideline by an Asian central bank treating agroecological practice adoption as a distinct credit risk category within its supervisory framework, effective Q3 2026. The guideline directs Philippine banks to reflect agroecological status of borrower operations in internal capital assessment, creating a structural bias toward smallholder-centred lending. BSP officials said the move was driven by portfolio concentration analysis showing material transition-risk exposure in monoculture lending books.</description>
-<pubDate>Mon, 20 Apr 2026 10:00:00 +0800</pubDate>
-<guid>https://example.com/bsp-agroecology-credit-risk</guid>
-</item>
-
-<item>
-<title>FAIRR launches first Asian agroecology-weighted protein producer index with 24 institutional investors signed on</title>
+<title>FAIRR launches first Asian agroecology-weighted protein producer index</title>
 <link>https://example.com/fairr-asian-agroecology-index</link>
-<description>The FAIRR Initiative has launched the first Asian agroecology-weighted protein producer index, with 24 institutional investors representing approximately $2.1 trillion in combined assets under management signing on as baseline users at launch. The index explicitly penalises producers with high exposure to industrial feed systems and rewards those integrating cooperative-origin sourcing and agroecological practice. FAIRR has framed the launch as a structural response to transition lock-in across the region's protein sector.</description>
-<pubDate>Mon, 20 Apr 2026 08:15:00 +0800</pubDate>
+<description>The FAIRR Initiative has launched the first Asian protein producer index weighted on agroecological practice and smallholder inclusion metrics, with twenty-four institutional investors signing on as baseline users. The index is designed to surface structural rather than incremental shifts in how protein producers engage with smallholder supply. The methodology and scoring are being published openly for peer review.</description>
+<pubDate>Fri, 18 Apr 2026 11:00:00 +0800</pubDate>
 <guid>https://example.com/fairr-asian-agroecology-index</guid>
 </item>
 
 <item>
-<title>Bank of Thailand adds agroecological transition category to sustainable finance taxonomy</title>
-<link>https://example.com/bot-agroecological-taxonomy</link>
-<description>The Bank of Thailand has added an agroecological transition category to its sustainable finance taxonomy, separating it from the existing climate-smart agriculture classification. Regulated banks must align disclosures with the new taxonomy by end-2026, with examinations referencing taxonomy alignment beginning in the first half of 2027. The move creates Thailand's first formal regulatory distinction between productivity-led and agroecological transition pathways.</description>
-<pubDate>Sun, 19 Apr 2026 15:30:00 +0800</pubDate>
-<guid>https://example.com/bot-agroecological-taxonomy</guid>
+<title>Bangko Sentral ng Pilipinas issues first Asian central bank guideline treating agroecological adoption as distinct credit risk category</title>
+<link>https://example.com/bsp-agroecology-credit-category</link>
+<description>Bangko Sentral ng Pilipinas has issued a new guideline requiring commercial banks to treat agroecological practice adoption as a distinct credit risk assessment category for agricultural lending. The guideline is the first of its kind from an Asian central bank and takes effect for lending decisions from January 2027. Implementation support will be provided through the central bank's sustainable finance unit.</description>
+<pubDate>Fri, 18 Apr 2026 09:30:00 +0800</pubDate>
+<guid>https://example.com/bsp-agroecology-credit-category</guid>
 </item>
 
 <item>
-<title>UOB prices $85m Indonesian smallholder palm oil facility against cooperative membership milestones</title>
-<link>https://example.com/uob-indonesia-palm-cooperative-pricing</link>
-<description>United Overseas Bank has closed an $85 million Indonesian smallholder palm oil lending facility priced explicitly against cooperative-membership milestones, a first for regional commercial banking. Borrowers receive stepped pricing reductions as an increasing share of sourced volume flows through registered farmer cooperatives. UOB executives described the structure as a deliberate attempt to put system finance at the cooperative tier where it has historically been absent.</description>
-<pubDate>Sun, 19 Apr 2026 11:45:00 +0800</pubDate>
-<guid>https://example.com/uob-indonesia-palm-cooperative-pricing</guid>
+<title>Bank of Thailand adds agroecological transition to sustainable finance taxonomy</title>
+<link>https://example.com/bot-taxonomy-agroecology</link>
+<description>The Bank of Thailand has updated its sustainable finance taxonomy to include a dedicated agroecological transition category, with commercial banks required to align reporting by end-2026. The update distinguishes agroecological transition from generic sustainable agriculture and is seen as a signal toward greater precision in Thai green finance classification.</description>
+<pubDate>Thu, 17 Apr 2026 14:00:00 +0800</pubDate>
+<guid>https://example.com/bot-taxonomy-agroecology</guid>
 </item>
 
 <item>
-<title>MAS publishes revised transition finance taxonomy separating agroecology from climate-smart agriculture</title>
-<link>https://example.com/mas-transition-taxonomy-agroecology</link>
-<description>The Monetary Authority of Singapore has published its revised transition finance taxonomy, for the first time separating agroecological and regenerative pathways from productivity-oriented climate-smart agriculture. Financial institutions have an 18-month compliance runway, with MAS indicating examinations will reference taxonomy alignment from Q4 2027. The taxonomic split has been called for by SEA campaigners for several years and is expected to influence cross-border lending frameworks across the region.</description>
-<pubDate>Sun, 19 Apr 2026 08:00:00 +0800</pubDate>
-<guid>https://example.com/mas-transition-taxonomy-agroecology</guid>
+<title>Dutch impact fund opens Singapore office focused on Southeast Asian agroecology</title>
+<link>https://example.com/dutch-fund-singapore-agroecology</link>
+<description>A Netherlands-based impact investment fund with eight hundred million dollars under management has opened a Singapore regional office with an explicit mandate focused on agroecological transition investments across Southeast Asia. The fund has announced a first target commitment of one hundred million dollars over three years, with co-investment partnerships under negotiation.</description>
+<pubDate>Thu, 17 Apr 2026 10:15:00 +0800</pubDate>
+<guid>https://example.com/dutch-fund-singapore-agroecology</guid>
 </item>
 
 <item>
-<title>Bank Indonesia launches $140m rural credit programme prioritising farmer-led cooperatives</title>
-<link>https://example.com/bank-indonesia-rural-cooperative-credit</link>
-<description>Bank Indonesia has launched a $140 million rural credit programme targeting farmer-led cooperatives across Java and Sulawesi, with preferential interest terms for cooperatives scoring above a defined smallholder-equity threshold. First disbursements are scheduled for May, with 23 cooperative borrowers identified in the initial tranche. The programme's design is notable for disbursing directly to cooperatives rather than via corporate off-taker intermediaries.</description>
-<pubDate>Sat, 18 Apr 2026 14:30:00 +0800</pubDate>
-<guid>https://example.com/bank-indonesia-rural-cooperative-credit</guid>
+<title>UOB prices Indonesian smallholder palm oil loan against cooperative membership milestones</title>
+<link>https://example.com/uob-indonesia-palm-cooperative-loan</link>
+<description>UOB has launched a forty million dollar loan facility for Indonesian palm oil smallholders, with pricing tied to cooperative membership and agroecological practice adoption milestones. The facility is the first of its structure for a Singapore commercial bank and represents a move away from certification-based sustainability lending toward practice-based terms.</description>
+<pubDate>Wed, 16 Apr 2026 13:30:00 +0800</pubDate>
+<guid>https://example.com/uob-indonesia-palm-cooperative-loan</guid>
 </item>
 
 <item>
-<title>ASEAN technical working group circulates draft regional framework for agroecology adoption</title>
-<link>https://example.com/asean-agroecology-draft-framework</link>
-<description>An ASEAN technical working group has circulated a draft regional framework for agroecology adoption to member-state agriculture ministries, opening a 90-day comment period. The draft proposes shared indicators for transition progress and a non-binding mutual-recognition mechanism for cooperative certification. Ministerial endorsement is being targeted at the mid-year summit in Jakarta, though member-state positions diverge on scope.</description>
-<pubDate>Sat, 18 Apr 2026 10:45:00 +0800</pubDate>
-<guid>https://example.com/asean-agroecology-draft-framework</guid>
+<title>ASEAN working group circulates draft regional framework for agroecology adoption</title>
+<link>https://example.com/asean-agroecology-framework-draft</link>
+<description>An ASEAN technical working group has circulated a draft regional framework for agroecology adoption, covering land use, agricultural extension, and intra-regional trade. Member states will review the draft through Q3 2026, with formal adoption targeted for 2027.</description>
+<pubDate>Wed, 16 Apr 2026 10:45:00 +0800</pubDate>
+<guid>https://example.com/asean-agroecology-framework-draft</guid>
 </item>
 
 <item>
-<title>Thailand's Rice Department proposes subsidy reform favouring low-input cultivation methods</title>
-<link>https://example.com/thailand-rice-subsidy-low-input</link>
-<description>Thailand's Rice Department has proposed a restructuring of existing rice subsidies to favour low-input and agroecological cultivation methods, with an internal pilot covering three northeastern provinces. The proposal is in cabinet review and could move to public consultation later this quarter; farmer-union responses to the draft have been mixed, reflecting concerns about transition timelines.</description>
-<pubDate>Fri, 17 Apr 2026 16:00:00 +0800</pubDate>
-<guid>https://example.com/thailand-rice-subsidy-low-input</guid>
+<title>Vietnam approves pilot payments-for-ecosystem-services programme covering 40,000 hectares</title>
+<link>https://example.com/vietnam-pes-pilot-central-highlands</link>
+<description>Vietnam's Ministry of Agriculture has approved a pilot payments-for-ecosystem-services programme covering forty thousand hectares in the Central Highlands, targeting smallholder coffee and rice producers. The pilot will run for three years with potential expansion contingent on verified outcomes.</description>
+<pubDate>Tue, 15 Apr 2026 15:00:00 +0800</pubDate>
+<guid>https://example.com/vietnam-pes-pilot-central-highlands</guid>
 </item>
 
 <item>
-<title>Indonesia reviews nitrogen fertiliser subsidy programme with soil-health scenario in play</title>
-<link>https://example.com/indonesia-fertiliser-subsidy-soil-health</link>
-<description>Indonesia's Ministry of Agriculture has opened a formal review of the country's long-standing nitrogen fertiliser subsidy programme, with Ministry of Finance representation on the review panel. One of the scenarios under consideration redirects a portion of the subsidy toward soil-health inputs and cooperative-tier organic fertiliser supply. Observers describe visible ministerial tension over whether reform should be framed as transition finance or fiscal consolidation.</description>
-<pubDate>Fri, 17 Apr 2026 11:30:00 +0800</pubDate>
-<guid>https://example.com/indonesia-fertiliser-subsidy-soil-health</guid>
+<title>Private equity firm launches $300m Asian food systems fund focused on supply chain resilience</title>
+<link>https://example.com/pe-asian-food-systems-fund</link>
+<description>A mid-market private equity firm has launched a three hundred million dollar fund dedicated to Asian food systems, with a stated thesis focused on supply chain resilience and smallholder integration rather than novel food technology. The fund has already made three undisclosed investments in Vietnamese and Indonesian agribusiness.</description>
+<pubDate>Tue, 15 Apr 2026 11:30:00 +0800</pubDate>
+<guid>https://example.com/pe-asian-food-systems-fund</guid>
 </item>
 
 <item>
-<title>Aquaspark closes $280m Fund III with 45 per cent Southeast Asian mandate</title>
-<link>https://example.com/aquaspark-fund-iii-sea-mandate</link>
-<description>Singapore-based impact investor Aquaspark has closed its third aquaculture fund at $280 million, with around 45 per cent of the mandate earmarked for Southeast Asia. Partners describe a deliberate tilt toward smallholder-clustered supply models and away from vertically integrated industrial farms, with the first four investments expected to close in the second half of the year.</description>
-<pubDate>Thu, 16 Apr 2026 14:15:00 +0800</pubDate>
-<guid>https://example.com/aquaspark-fund-iii-sea-mandate</guid>
+<title>Indonesia tightens ESG disclosure requirements for listed agribusiness</title>
+<link>https://example.com/indonesia-esg-listed-agri</link>
+<description>Indonesia's financial services authority has tightened ESG disclosure requirements for publicly-listed agribusiness companies, with new categories covering smallholder procurement, land use change, and soil health. The new requirements apply to the 2027 reporting cycle.</description>
+<pubDate>Mon, 14 Apr 2026 13:00:00 +0800</pubDate>
+<guid>https://example.com/indonesia-esg-listed-agri</guid>
 </item>
 
 <item>
-<title>AVPN convenes Asia Agroecology Funders Collaborative with 14 founding members</title>
-<link>https://example.com/avpn-agroecology-funders-collaborative</link>
-<description>The Asia Venture Philanthropy Network has convened an Asia Agroecology Funders Collaborative with 14 founding members pooling grant and concessional capital. The collaborative's stated goal is to move beyond project-by-project funding and toward system finance for cooperative and smallholder-centred infrastructure across the region, with a first call for proposals expected in Q3.</description>
-<pubDate>Wed, 15 Apr 2026 11:00:00 +0800</pubDate>
-<guid>https://example.com/avpn-agroecology-funders-collaborative</guid>
+<title>Singapore sovereign wealth fund reviews protein portfolio allocation</title>
+<link>https://example.com/singapore-swf-protein-review</link>
+<description>A Singapore sovereign wealth fund is reviewing its protein-related portfolio allocation, with internal analysis reportedly questioning the systemic impact of current alternative protein investments relative to agroecological alternatives. No formal portfolio change has been announced but the review is being watched as a potential signal.</description>
+<pubDate>Mon, 14 Apr 2026 09:45:00 +0800</pubDate>
+<guid>https://example.com/singapore-swf-protein-review</guid>
 </item>
 
 <item>
-<title>DBS signals reduced appetite for industrial livestock financing across Southeast Asia</title>
-<link>https://example.com/dbs-livestock-exposure-sea</link>
-<description>DBS Bank has told institutional clients it will reduce its lending exposure to large-scale industrial livestock operations across Southeast Asia over the next 36 months, citing physical climate and regulatory-transition risk. The bank has not committed to redirecting freed capacity toward agroecological alternatives, but the announcement is being read as an implicit acknowledgement of transition lock-in in the sector.</description>
-<pubDate>Mon, 13 Apr 2026 09:45:00 +0800</pubDate>
-<guid>https://example.com/dbs-livestock-exposure-sea</guid>
+<title>AVPN announces Asian food-systems impact coalition of twenty-four funders</title>
+<link>https://example.com/avpn-food-coalition</link>
+<description>The Asian Venture Philanthropy Network has announced a new coalition of twenty-four funders focused on coordinated investment in food-systems transition, with regional focus on smallholder-centred supply chains. Initial programming will run through 2027.</description>
+<pubDate>Sun, 13 Apr 2026 14:15:00 +0800</pubDate>
+<guid>https://example.com/avpn-food-coalition</guid>
 </item>
 
 <item>
-<title>State Bank of Vietnam opens consultation on green agricultural lending framework</title>
-<link>https://example.com/sbv-green-agri-lending-consultation</link>
-<description>The State Bank of Vietnam has opened a consultation on a proposed green agricultural lending framework, inviting comment from commercial banks and farmer-union bodies. Draft language references both cooperative-tier origination and agroecological transition, though industry observers note the framework remains broad and non-binding at this stage.</description>
-<pubDate>Sat, 11 Apr 2026 14:00:00 +0800</pubDate>
-<guid>https://example.com/sbv-green-agri-lending-consultation</guid>
+<title>Malaysia proposes cooperative bank legislation for smallholder producers</title>
+<link>https://example.com/malaysia-cooperative-bank</link>
+<description>Malaysia's parliament is reviewing proposed legislation to enable a dedicated cooperative bank serving smallholder producer organisations, with initial capitalisation of two hundred million dollars. The bill is expected to receive committee review through mid-2026.</description>
+<pubDate>Sat, 12 Apr 2026 10:30:00 +0800</pubDate>
+<guid>https://example.com/malaysia-cooperative-bank</guid>
 </item>
 
 <item>
-<title>Singapore opens $30m alternative-protein R&amp;D grant round emphasising precision fermentation</title>
-<link>https://example.com/singapore-altprotein-rd-grant</link>
-<description>Singapore's Enterprise Development agency has opened a $30 million grant round for alternative-protein R&amp;D, with priority given to precision fermentation and cultivated-meat scale-up projects. The programme explicitly frames alternative proteins as central to Singapore's climate-smart protein strategy and to the country's regional export ambitions.</description>
-<pubDate>Thu, 9 Apr 2026 10:30:00 +0800</pubDate>
-<guid>https://example.com/singapore-altprotein-rd-grant</guid>
+<title>Southeast Asian sustainable finance roundtable convenes in Bangkok</title>
+<link>https://example.com/sea-sustainable-finance-roundtable</link>
+<description>Representatives from regional commercial banks, development finance institutions, and regulatory bodies gathered in Bangkok for a closed-door roundtable on sustainable finance coordination across Southeast Asia. Discussion outcomes were not released publicly.</description>
+<pubDate>Fri, 11 Apr 2026 11:00:00 +0800</pubDate>
+<guid>https://example.com/sea-sustainable-finance-roundtable</guid>
 </item>
 
 <item>
-<title>European Commission finalises revised dairy import tariff schedule</title>
-<link>https://example.com/ec-dairy-tariff-revision</link>
-<description>The European Commission has finalised a revised dairy import tariff schedule affecting trade with several non-EU jurisdictions. The changes are focused on North American and Oceania flows and carry no direct application to Southeast Asian dairy exporters, though regional analysts will track secondary market effects.</description>
-<pubDate>Mon, 6 Apr 2026 13:15:00 +0800</pubDate>
-<guid>https://example.com/ec-dairy-tariff-revision</guid>
+<title>European Commission proposes new agricultural sustainability regulations</title>
+<link>https://example.com/ec-agricultural-sustainability</link>
+<description>The European Commission has proposed new agricultural sustainability regulations affecting imports of agricultural commodities. The regulations are expected to face parliamentary review through the second half of 2026 and would take effect no earlier than 2028 if adopted.</description>
+<pubDate>Thu, 10 Apr 2026 15:30:00 +0800</pubDate>
+<guid>https://example.com/ec-agricultural-sustainability</guid>
 </item>
 
 </channel>
