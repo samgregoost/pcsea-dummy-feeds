@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>SEA Sector Events &amp; Convenings</title>
+<link>https://example.com/sea-events</link>
+<description>Upcoming events, workshops, roundtables, and convenings relevant to the Protein Challenge Southeast Asia programme</description>
+<language>en-gb</language>
+
+<item>
+<title>EVENT: AVPN Global Conference 2026 — Food Systems Track, Singapore, 9-11 June</title>
+<link>https://example.com/avpn-conference-2026</link>
+<description>The Asian Venture Philanthropy Network's flagship annual conference, with a dedicated food systems track featuring panels on agroecology finance, smallholder investment, and systems change in Asian agriculture. Over 1,200 investors and funders expected. Forum is listed as a supporting partner organisation and has two speaking slots confirmed. Venue: Marina Bay Sands, Singapore. Registration closes 20 May.</description>
+<pubDate>Fri, 18 Apr 2026 10:00:00 +0800</pubDate>
+<guid>https://example.com/avpn-conference-2026</guid>
+</item>
+
+<item>
+<title>EVENT: SIAL Singapore Agri-Food Week, 12-14 May 2026</title>
+<link>https://example.com/sial-singapore-2026</link>
+<description>Southeast Asia's largest agri-food trade and innovation week. Includes the Southeast Asia Food System Transition Forum on day two, featuring sessions on protein futures, smallholder supply chain integration, and regional capital architecture. Strong turnout from food businesses, investors, and regional policymakers expected. Venue: Sands Expo and Convention Centre, Singapore.</description>
+<pubDate>Thu, 17 Apr 2026 14:30:00 +0800</pubDate>
+<guid>https://example.com/sial-singapore-2026</guid>
+</item>
+
+<item>
+<title>EVENT: FAIRR Asia Investor Roundtable on Protein Producer Index, 22 May, Singapore</title>
+<link>https://example.com/fairr-asia-roundtable-may</link>
+<description>Closed-door institutional investor roundtable convened by the FAIRR Initiative to review the newly launched Asian agroecology-weighted protein producer index methodology. Attendance by invitation, with approximately 30 senior investors and allocators participating. Forum has received an invitation to present on systems-change implications.</description>
+<pubDate>Thu, 17 Apr 2026 09:45:00 +0800</pubDate>
+<guid>https://example.com/fairr-asia-roundtable-may</guid>
+</item>
+
+<item>
+<title>EVENT: ASEAN Agri Sustainable Finance Forum, 3-4 June, Bangkok</title>
+<link>https://example.com/asean-agri-finance-bangkok</link>
+<description>Regional finance ministry and central bank convening on sustainable agricultural finance coordination across ASEAN. Draft regional agroecology framework will be a featured discussion topic. Venue: Bank of Thailand conference centre. Registration open to accredited observers and sector organisations.</description>
+<pubDate>Wed, 16 Apr 2026 11:15:00 +0800</pubDate>
+<guid>https://example.com/asean-agri-finance-bangkok</guid>
+</item>
+
+<item>
+<title>EVENT: Forum for the Future Visionary Roundtable — Protein Challenge SEA, Singapore, 26 June</title>
+<link>https://example.com/forum-visionary-roundtable-june</link>
+<description>Quarterly Protein Visionary convening, bringing together the 40-person Protein Challenge Southeast Asia network for a full-day working session. Agenda includes an Action Inquiry sprint on financial architecture, peer learning on practice-level experiments, and a closed-door conversation with invited investors. Hosted at Forum's Singapore office.</description>
+<pubDate>Wed, 16 Apr 2026 09:00:00 +0800</pubDate>
+<guid>https://example.com/forum-visionary-roundtable-june</guid>
+</item>
+
+<item>
+<title>EVENT: Southeast Asia Cooperative Leaders Assembly, 14-15 July, Ho Chi Minh City</title>
+<link>https://example.com/sea-cooperative-assembly</link>
+<description>First regional assembly of smallholder cooperative leaders from Vietnam, Cambodia, Laos, Indonesia, and the Philippines. Focus on peer learning, direct market access strategies, and cooperative-to-cooperative trade. Organised independently of donor agencies. Observer attendance open to small number of sector organisations.</description>
+<pubDate>Tue, 15 Apr 2026 13:00:00 +0800</pubDate>
+<guid>https://example.com/sea-cooperative-assembly</guid>
+</item>
+
+<item>
+<title>EVENT: ADB Asia Food System Dialogue, 8 May, Manila</title>
+<link>https://example.com/adb-food-system-dialogue-may</link>
+<description>ADB-convened dialogue on food system transition finance in Asia, with emphasis on the bank's new Mekong agroecology facility and emerging regional lending frameworks. Attendance by invitation. Forum has received an observer invitation.</description>
+<pubDate>Mon, 14 Apr 2026 15:20:00 +0800</pubDate>
+<guid>https://example.com/adb-food-system-dialogue-may</guid>
+</item>
+
+<item>
+<title>EVENT: Singapore Sustainability Week — Food Systems Day, 28 May</title>
+<link>https://example.com/sg-sustainability-week-foodday</link>
+<description>Food systems day within Singapore Sustainability Week, featuring panels on regional agricultural transition, alt-protein versus agroecology framings, and the role of Singapore as a regional capital hub. Open to public registration. Several Forum Visionaries confirmed on panels.</description>
+<pubDate>Sun, 13 Apr 2026 10:30:00 +0800</pubDate>
+<guid>https://example.com/sg-sustainability-week-foodday</guid>
+</item>
+
+<item>
+<title>EVENT: GFI APAC Research Symposium, 17 June, Singapore</title>
+<link>https://example.com/gfi-apac-symposium-june</link>
+<description>Annual research symposium from the Good Food Institute APAC, presenting consumer research, investment landscape analysis, and technology pathways for Asian protein transition. Following recent GFI findings on declining SEA alt-protein consumer interest, this symposium will include a dedicated session on narrative reframing.</description>
+<pubDate>Fri, 11 Apr 2026 11:00:00 +0800</pubDate>
+<guid>https://example.com/gfi-apac-symposium-june</guid>
+</item>
+
+<item>
+<title>EVENT: Mekong Delta Agroecology Field Visit, 21-23 May, Can Tho, Vietnam</title>
+<link>https://example.com/mekong-field-visit-may</link>
+<description>Organised field visit to ADB-funded agroecology pilot sites in the Mekong Delta, with cooperative leader engagement and site-level capacity review. Invitation-only, limited to approximately 20 participants from investor, funder, and research institutions. Forum has been invited to send two representatives.</description>
+<pubDate>Thu, 10 Apr 2026 14:00:00 +0800</pubDate>
+<guid>https://example.com/mekong-field-visit-may</guid>
+</item>
+
+<item>
+<title>EVENT: Philippines Agroecology Strategy Consultation Workshop, 12 May, Manila</title>
+<link>https://example.com/ph-agroecology-consultation-may</link>
+<description>Public consultation workshop on the draft Philippine national agroecology strategy, organised by the Department of Agriculture. Civil society, researcher, and practitioner participation encouraged. Open registration until 5 May.</description>
+<pubDate>Wed, 09 Apr 2026 10:00:00 +0800</pubDate>
+<guid>https://example.com/ph-agroecology-consultation-may</guid>
+</item>
+
+<item>
+<title>EVENT: Global Landscapes Forum Asia, 9-10 July, Jakarta</title>
+<link>https://example.com/glf-asia-jakarta-july</link>
+<description>Regional edition of the Global Landscapes Forum, with strong programming on integrated land use, agroforestry, and smallholder resilience in Southeast Asia. Hybrid format with physical attendance in Jakarta and online participation. Forum has two confirmed panel slots.</description>
+<pubDate>Tue, 08 Apr 2026 13:15:00 +0800</pubDate>
+<guid>https://example.com/glf-asia-jakarta-july</guid>
+</item>
+
+<item>
+<title>EVENT: Indonesian Smallholder Finance Summit, 30 April, Jakarta</title>
+<link>https://example.com/indonesia-smallholder-finance-summit</link>
+<description>National summit on smallholder agricultural finance convened by Bank Indonesia and the Ministry of Agriculture. Focus on new rural credit programme for farmer-led cooperatives and alignment with agroecological policy direction. Observer attendance open by registration.</description>
+<pubDate>Mon, 07 Apr 2026 09:30:00 +0800</pubDate>
+<guid>https://example.com/indonesia-smallholder-finance-summit</guid>
+</item>
+
+<item>
+<title>EVENT: Just Food Futures Webinar Series — Alt-Protein Critical Review, 2 May, online</title>
+<link>https://example.com/just-food-webinar-may</link>
+<description>Online panel hosted by a network of Asian academic institutions examining the limits of the alternative protein investment thesis and the case for agroecological systems alternatives. Registration free, public attendance open.</description>
+<pubDate>Sat, 05 Apr 2026 11:00:00 +0800</pubDate>
+<guid>https://example.com/just-food-webinar-may</guid>
+</item>
+
+<item>
+<title>EVENT: Malaysia Palm Oil Cooperative Conference, 24 June, Kuala Lumpur</title>
+<link>https://example.com/malaysia-palm-coop-conference</link>
+<description>First Malaysian conference dedicated to palm oil smallholder cooperative structures, convened in response to recent proposed cooperative bank legislation. Attendance open to cooperative representatives, researchers, and sector observers. Two-day programme with field visits on the second day.</description>
+<pubDate>Fri, 04 Apr 2026 10:45:00 +0800</pubDate>
+<guid>https://example.com/malaysia-palm-coop-conference</guid>
+</item>
+
+</channel>
+</rss>
